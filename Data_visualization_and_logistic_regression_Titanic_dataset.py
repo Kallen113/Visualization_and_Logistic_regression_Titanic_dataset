@@ -129,5 +129,3 @@ In short, the results of the data suggests the prevailing claim that ships in ac
 save women and children first (adult men being the lowest on the priority list) is by and large quite true for the Titanic.
 '''
 
-Therefore, it woul 
-
