@@ -12,8 +12,7 @@ or other techniques for estimating probabilities using regression and/or other M
 
 The dataset is interesting not only from a statistical standpoint, but also an historic standpoint.  For example, what factors were
 the most signficant in the odds that a given passenger would survive the Titanic? Also is it actually true that women
-and children were more likely to survive the Titanic? Both of these questions are addressed in the coding project saved to
-this repository.
+and children were more likely to survive the Titanic than men? Both of these questions are addressed in the Jupyter/iPython notebooks saved to this repository.
 
 The code used involves several data science and visualization libraries, primarily Pandas, but also seaborn and statsmodels
 (a regression model library).
