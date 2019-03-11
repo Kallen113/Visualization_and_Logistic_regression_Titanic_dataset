@@ -14,5 +14,4 @@ The dataset is interesting not only from a statistical standpoint, but also an h
 the most signficant in the odds that a given passenger would survive the Titanic? Also is it actually true that women
 and children were more likely to survive the Titanic than men? Both of these questions are addressed in the Jupyter/iPython notebooks saved to this repository.
 
-The code used involves several data science and visualization libraries, primarily Pandas, but also seaborn and statsmodels
-(a regression model library).
+The code used involves several data science and visualization libraries, primarily Pandas, but also seaborn (for datanvisualization), statsmodels (a regression model library), and scikitlearn for supervised ML models such as Random Forest classification and k-nearest neighbors (knn).
