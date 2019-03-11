@@ -1,8 +1,8 @@
 # Visualization_and_Logistic_regression_Titanic_dataset
 Python code project: data analysis and plots of Titanic dataset, and logistic regression model. 
 
-This code saved to this repository was inspired by a Kaggle Machine Learning project from several years ago; see link here:
-<https://www.kaggle.com/wei10117/titanic-machine-learning-from-disaster/data>.
+This code saved to this repository was inspired by a Kaggle Machine Learning copetition from several years ago; see link here:
+<https://www.kaggle.com/c/titanic>.
 
 The site contains data on all of the Titanic passengers, including demographic variables such as gender, age, and also other
 aspects of the passengers, such as their passenger class.
